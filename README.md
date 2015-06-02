@@ -1,4 +1,4 @@
-XpressEngine
+Chu's XpressEngine
 ============
 
 [![Build Status](https://travis-ci.org/xpressengine/xe-core.svg?branch=master)](https://travis-ci.org/xpressengine/xe-core)
